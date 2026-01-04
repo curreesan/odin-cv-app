@@ -12,3 +12,7 @@ This app allows users to fill in their personal information, education, and work
   - Educational Experience
   - Practical Experience (with responsibilities)
 - Controlled inputs — data updates live as you type
+
+# Live Link
+
+https://odin-cv-app.vercel.app/
